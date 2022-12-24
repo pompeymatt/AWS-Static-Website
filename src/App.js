@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './BST_Blackpink_message.jpg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          You do have to take your parents with you though!!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.bst-hydepark.com/events/blackpink-2-july/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Website for the Gig is here!
         </a>
       </header>
     </div>
